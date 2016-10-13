@@ -1,2 +1,3 @@
 # hello_world
-github test
+
+# This file is a test of github and used to showcase branches and commits
